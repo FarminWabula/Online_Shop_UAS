@@ -235,13 +235,14 @@ Aplikasi mendukung berbagai ukuran layar:
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan akademik (UAS).
+Project ini dibuat untuk (UAS).
 
 ## 👨‍💻 Kontributor
 
-- **Developer**: [Nama Anda]
-- **Mata Kuliah**: Pemrograman Web dengan Java
-- **Institusi**: [Nama Universitas]
+- **Developer**: Farmin Wabula
+- **Nim**: 221011400957
+- **Mata Kuliah**: Pemrograman II
+- **Institusi**: Universitas Pamulang
 
 ## 📞 Support
 
