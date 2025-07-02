@@ -1,0 +1,5 @@
+com\onlineshop\service\ProductService.class
+com\onlineshop\dao\DatabaseConnection.class
+com\onlineshop\model\Product.class
+com\onlineshop\dao\ProductDAO.class
+com\onlineshop\servlet\ProductServlet.class
